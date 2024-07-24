@@ -11,27 +11,9 @@ Color Themes: Choose from different color themes for a personalized experience.
 🛠️ Installation
 Follow these steps to get a local copy up and running:
 
-Clone the repository:
 
-sh
-Copy code
-git clone https://github.com/your-username/connect4.git
-Navigate to the project directory:
 
-sh
-Copy code
-cd connect4
-Install the dependencies:
 
-sh
-Copy code
-npm install
-Run the game:
-
-sh
-Copy code
-npm start
-git clone https://github.com/your-username/connect4.git
 
 🎮 How to Play
 Objective: Be the first to form a horizontal, vertical, or diagonal line of four of your own discs.
