@@ -52,5 +52,5 @@ Open a Pull Request
 💬 Contact
 Your Name - @your-twitter-handle - ashivu656@gmail.com
 
-Project Link: https://github.com/your-username/connect4
-
+Project Link: [https://github.com/your-username/connect4
+](https://github.com/shivu656/Connect-_Four_Game-)
